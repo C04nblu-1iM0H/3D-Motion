@@ -1,0 +1,9 @@
+@media(min-width:1440px) and (max-width:1600px){
+    .menu{
+        margin-right: 50px;
+    }
+
+    .text section:nth-child(3) img {
+        margin-left: 150px;
+    }
+}
